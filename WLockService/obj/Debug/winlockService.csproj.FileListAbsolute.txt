@@ -1,4 +1,0 @@
-C:\Users\clooz\Desktop\wLock\WINLOCK\WLockService\obj\Debug\winlockService.csproj.AssemblyReference.cache
-C:\Users\clooz\Desktop\wLock\WINLOCK\WLockService\obj\Debug\winlock.winlock.resources
-C:\Users\clooz\Desktop\wLock\WINLOCK\WLockService\obj\Debug\winlock.ProjectInstaller.resources
-C:\Users\clooz\Desktop\wLock\WINLOCK\WLockService\obj\Debug\winlockService.csproj.GenerateResource.cache
