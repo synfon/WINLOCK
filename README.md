@@ -1,12 +1,9 @@
-# 🔒 Winlock Service  
+
+
+## 🛡️ Winlock Service  
 🚀 **Enhanced Windows security with HID Device Protection**  
 👦 *I created this at the beginning of 2025.*
-
----
-
-## 🛡️ USB Lock Service
-
-**USB Lock Service** is a Windows service that strengthens security by automatically locking the system when a USB device (flash drive, mouse, or keyboard) is detected. The lock can be bypassed if a specific file with a predefined name is found on the connected USB flash drive.
+**Winlock Service ** is a Windows service that strengthens security by automatically locking the system when a USB device (flash drive, mouse, or keyboard) is detected. The lock can be bypassed if a specific file with a predefined name is found on the connected USB flash drive.
 
 ---
 
